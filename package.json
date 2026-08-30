@@ -1,0 +1,18 @@
+{
+  "name": "pa-sheet-tool",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0",
+    "vite": "^5.2.0"
+  },
+  "dependencies": {
+    "pdfjs-dist": "^4.4.168",
+    "pdf-lib": "^1.17.1"
+  }
+}
